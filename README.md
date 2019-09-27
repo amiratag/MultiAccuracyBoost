@@ -28,10 +28,4 @@ Dowanload LFW+A dataset images and put them in a "./LFWA+/lfw" directory. "datas
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-Work was done as part of Google Brain internship.
-# ACE
-
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
