@@ -4,9 +4,14 @@ Multiaccuracy: Black-Box Post-Processing for Fairness in Classification
 **Please cite the following work if you use this benchmark or the provided tools or implementations:**
 
 ```
-Kim, Michael P., Amirata Ghorbani, and James Zou. 
-"Multiaccuracy: Black-box post-processing for fairness in classification." 
-In Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society, pp. 247-254. ACM, 2019.
+@inproceedings{kim2019multiaccuracy,
+  title={Multiaccuracy: Black-box post-processing for fairness in classification},
+  author={Kim, Michael P and Ghorbani, Amirata and Zou, James},
+  booktitle={Proceedings of the 2019 AAAI/ACM Conference on AI, Ethics, and Society},
+  pages={247--254},
+  year={2019},
+  organization={ACM}
+}
 ```
 ## Getting Started
 Here is the tensorflow implementations of the paper [Multiaccuracy: Black-Box Post-Processing for Fairness in Classification](https://arxiv.org/abs/1805.12317) presented at NeurIPS 2019.
